@@ -1,0 +1,7 @@
+---
+
+# modern thinkpads have 3 levels of brightness
+# 0 - off
+# 1 - low
+# 2 - high
+brightness: 1
